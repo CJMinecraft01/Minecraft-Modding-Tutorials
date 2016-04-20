@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model":"boe:mini_chest_north" },
+        "facing=south": { "model":"boe:mini_chest_south" },
+        "facing=east": { "model":"boe:mini_chest_east" },
+        "facing=west": { "model":"boe:mini_chest_west" }
+    }
+}

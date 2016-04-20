@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model":"boe:item_case_north" },
+        "facing=south": { "model":"boe:item_case_south" },
+        "facing=east": { "model":"boe:item_case_east" },
+        "facing=west": { "model":"boe:item_case_west" }
+    }
+}

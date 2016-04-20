@@ -1,0 +1,16 @@
+[
+{
+  "modid": "boe",
+  "name": "BitOfEverything",
+  "description": "Adds a lot of things",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "cjminecraft.theclever.me",
+  "updateUrl": "",
+  "authorList": ["CJMinecraft"],
+  "credits": "Awesome subscribers!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

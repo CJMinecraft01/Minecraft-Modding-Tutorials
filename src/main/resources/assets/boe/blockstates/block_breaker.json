@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "active=false,type=wood": { "model" : "boe:wood_block_breaker" },
+        "active=false,type=stone": { "model" : "boe:stone_block_breaker" },
+        "active=false,type=iron": { "model" : "boe:iron_block_breaker" },
+        "active=false,type=gold": { "model" : "boe:gold_block_breaker" },
+        "active=false,type=diamond": { "model" : "boe:diamond_block_breaker" },
+        "active=false,type=copper": { "model" : "boe:copper_block_breaker" },
+        "active=true,type=wood": { "model" : "boe:wood_block_breaker_active" },
+        "active=true,type=stone": { "model" : "boe:stone_block_breaker_active" },
+        "active=true,type=iron": { "model" : "boe:iron_block_breaker_active" },
+        "active=true,type=gold": { "model" : "boe:gold_block_breaker_active" },
+        "active=true,type=diamond": { "model" : "boe:diamond_block_breaker_active" },
+        "active=true,type=copper": { "model" : "boe:copper_block_breaker_active" }
+    }
+}

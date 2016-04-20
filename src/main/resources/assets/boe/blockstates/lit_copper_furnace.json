@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "boe:lit_copper_furnace" },
+        "facing=south": { "model": "boe:lit_copper_furnace", "y": 180 },
+        "facing=west":  { "model": "boe:lit_copper_furnace", "y": 270 },
+        "facing=east":  { "model": "boe:lit_copper_furnace", "y": 90 }
+    }
+}

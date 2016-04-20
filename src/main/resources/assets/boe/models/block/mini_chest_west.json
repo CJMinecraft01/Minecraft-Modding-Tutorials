@@ -1,0 +1,24 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "blocks/planks_oak",
+        "side": "boe:blocks/mini_chest_side",
+        "front": "boe:blocks/mini_chest_front",
+        "bottom": "boe:blocks/mini_chest_bottom"
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 4.0, 4.0, 4.0 ], 
+            "to": [ 12.0, 12.0, 12.0 ], 
+            "faces": {
+                "north": { "texture": "#side", "uv": [ 0.0, 0.0, 8.0, 8.0 ] },
+                "east": { "texture": "#side", "uv": [ 0.0, 0.0, 8.0, 8.0 ] },
+                "south": { "texture": "#side", "uv": [ 0.0, 0.0, 8.0, 8.0 ] },
+                "west": { "texture": "#front", "uv": [ 0.0, 0.0, 8.0, 8.0 ] },
+                "up": { "texture": "#bottom", "uv": [ 0.0, 0.0, 8.0, 8.0 ] },
+                "down": { "texture": "#bottom", "uv": [ 0.0, 0.0, 8.0, 8.0 ] }
+            }
+        }
+    ]
+}
